@@ -1,3 +1,5 @@
+```
+
 Question 1:
 
 18-99  | n-m
@@ -106,3 +108,5 @@ Answer: 5 equivalence partitions
 
 
            
+
+```
